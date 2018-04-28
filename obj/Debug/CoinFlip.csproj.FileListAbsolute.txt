@@ -1,0 +1,7 @@
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojResolveAssemblyReference.cache
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\redin\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
